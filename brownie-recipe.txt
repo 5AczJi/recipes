@@ -1,4 +1,4 @@
-Warning: do not follow this recipe. It's just a dumb file created for GitHub learning.
+Warning: do not follow this recipe. It's just a dummy file created for GitHub learning.
 Ingredients
    1.vanilla flavour
    2.eggs
